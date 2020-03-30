@@ -18,7 +18,7 @@ I have plotted the graph for the 'real' growth of balance in a savings account o
 
 ![](Real_Savings_Growth_Graph.jpg)
 
-Hence, it can be seen that due to the infaltion rate (assumed to be 2.75%) being higher than the rate of interest of the savings account we actually lose money by investing it in a savings account over a long period of time.  Even if we assume the inflation rate to be equal or a bit less than the rate of interest of the savings account we do not actually grown our money by that great amount. So if saving money is your only motive then the savings account might be an alright bet but, beware you could actually be losing money in most of the cases. Also, as I will explain in the next point investing your money in mutual funds might actually be really beneficial in the long run. 
+Hence, it can be seen that due to the infaltion rate (assumed to be 2.75%) being higher than the rate of interest of the savings account we actually lose money by investing it in a savings account over a long period of time.  Even if we assume the inflation rate to be equal or a bit less than the rate of interest of the savings account we do not actually grown our money by that great amount. So if saving money is your only motive then the savings account might be an alright bet, but beware you could actually be losing money in most of the cases. Also, as I will explain in the next point investing your money in mutual funds might actually be really beneficial in the long run. 
 
 
 ### 3.The (real) growth rate by investing in Mutual Funds or S.I.P. 🙌 -
